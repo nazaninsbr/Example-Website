@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');/*--- Paragraph Font --*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed'); /*--- Headings Font --*/
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+.carousel-item{
+	max-height: 600px;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
