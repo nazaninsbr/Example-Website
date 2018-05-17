@@ -1,4 +1,4 @@
-# Yegane-Website
+# Example-Website
 
 URL: https://nazaninsbr.github.io/Example-Website/
 
